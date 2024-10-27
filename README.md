@@ -14,8 +14,3 @@ This console-based Music Playlist Manager allows users to add, view, and remove 
 ### Prerequisites
 - C++ compiler (e.g., g++, clang)
 - Basic understanding of C++ programming
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/music-playlist.git

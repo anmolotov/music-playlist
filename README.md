@@ -9,8 +9,6 @@ This console-based Music Playlist Manager allows users to add, view, and remove 
 - **Remove Songs**: Delete a specific song by title.
 - **User-Friendly Menu**: Easy navigation through a simple console interface.
 
-## Getting Started
-
 ### Prerequisites
 - C++ compiler (e.g., g++, clang)
 - Basic understanding of C++ programming
